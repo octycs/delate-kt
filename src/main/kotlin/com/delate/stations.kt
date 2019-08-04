@@ -19,7 +19,7 @@ val STATIONS = arrayOf(
     Station("Stachus", "MKA", 8004132, 7242, arrayOf(1, 2, 3, 4, 6, 7, 8), 48.416444f, 11.391664f),
     Station("Marienplatz", "MMP", 8004135, 2, arrayOf(1, 2, 3, 4, 6, 7, 8), 48.13727f, 11.575757f),
     Station("Isartor", "MIT", 8004131, 3, arrayOf(1, 2, 3, 4, 6, 7, 8), 48.134003f, 11.583205f),
-    Station("Rosenheimer Platz", "MIT", 8004136, 4, arrayOf(1, 2, 3, 4, 6, 7, 8), 48.128587f, 11.593889f),
+    Station("Rosenheimer Platz", "MRP", 8004136, 4, arrayOf(1, 2, 3, 4, 6, 7, 8), 48.128587f, 11.593889f),
     Station("Ostbahnhof", "MOP", 8000262, 5, arrayOf(1, 2, 3, 4, 6, 7, 8), 48.128014f, 11.604003f),
     Station("St.-Martin-Str.", "MMAR", 8004138, 1100, arrayOf(3, 7), 48.11854f, 11.595822f),
     Station("Giesing", "MGI", 8004148, 1110, arrayOf(3, 7), 48.11071f, 11.594892f),
